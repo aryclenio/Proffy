@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     padding: 40,
-    backgroundColor: '#8657e5'
+    backgroundColor: '#322f3d'
   },
 
   banner: {
@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
   },
 
   buttonPrimary: {
-    backgroundColor: '#9871f5'
+    backgroundColor: '#4F4D56'
   },
 
   buttonSecondary: {
@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
     fontFamily: 'Poppins_400Regular',
     fontSize: 12,
     lineHeight: 20,
-    color: '#d4c2ff'
+    color: '#eee'
   }
 });
 

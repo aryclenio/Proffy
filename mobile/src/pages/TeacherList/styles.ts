@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
 
   label: {
     fontFamily: 'Poppins_400Regular',
-    color: '#d4c2ff'
+    color: '#eee'
   },
 
   inputGroup: {
